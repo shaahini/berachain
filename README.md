@@ -14,3 +14,4 @@ vedved
 arshia
 hasan
 eli
+nazi
